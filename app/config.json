@@ -1,0 +1,23 @@
+
+{
+
+  "malzeme_katsayi": 0.045,
+
+  "iscilik_katsayi": 0.012,
+
+  "fire_orani": 1.10,
+
+  "varsayilan_malzeme": "Alüminyum",
+
+  "varsayilan_iscilik": "Standart Kesim",
+
+  "varsayilan_fire": "Standart Fire",
+
+  "firma_adi": "SignCalc Otomasyon",
+
+  "firma_telefon": "0 555 123 45 67",
+
+  "firma_adres": "İstanbul, Türkiye"
+
+}
+

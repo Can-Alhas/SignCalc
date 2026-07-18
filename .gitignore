@@ -1,0 +1,46 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.pdb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Proje Verileri
+data/*.db
+data/*.db-shm
+data/*.db-wal
+logs/*.log
+*.log
+.DS_Store
+
+# Dağıtım
+build/
+dist/
+*.spec
+*.exe
+*.tar.gz
+*.zip
+
+# Test
+test/images/
+*.png
+*.jpg
+*.jpeg
+!test/.gitkeep
+
+# Streamlit
+.streamlit/
+
+# Docker
+*.tar
+*.tar.gz
